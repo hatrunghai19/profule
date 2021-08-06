@@ -11,7 +11,7 @@ app.controller('myController', function($scope) {
 	$scope.contact1 = "19-01-2001";
 	$scope.contact2 = "Độc thân";
 	$scope.contactmi = " LIÊN HỆ TÔI";
-	$scope.ifyou = "Nếu có thắc mắc về code thì liên lạc mình !";
+	$scope.ifyou = "Thông tin liên hệ ^^";
 	$scope.modal1 = "Facebook";
 	$scope.modal2 = "Zalo";
 	$scope.modal3 = "Instagram";
