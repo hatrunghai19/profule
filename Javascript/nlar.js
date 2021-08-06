@@ -30,7 +30,6 @@ app.controller('myController', function($scope) {
 	$scope.smsphone = "sms:0398810162";
 	$scope.email = "mailto:hatrunghai19@gmail.com";
 	$scope.title2 = "My Story";
-	$scope.contentStory1 = "";
 	$scope.contentStory2 = "Trong suốt hai năm qua, tôi cảm thấy mình chưa có tiến bộ nhiều trong công việc lẫn học tập. Cảm thấy mình cần bổ sung nhiều kiến thức hơn, có trách nhiệm hơn trong công việc và lời hứa. Gần đây, website đã bước sang giai đoạn phát triển, member trông đợi khá nhiều từ tôi và các Admin khác. Cho nên tôi sẽ cố gắng nhiều hơn nữa để mọi người không thất vọng. Xin cảm ơn mọi người !";
 	$scope.storytitle1 = "Đời lập trình của tôi bắt đầu bằng sự tình cờ ...";
 	$scope.storytitle2 = "Lời hứa của tôi với bản thân và mọi người trong hai năm qua ...";
